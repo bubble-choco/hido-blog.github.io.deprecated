@@ -3,7 +3,8 @@ title: Hido's Blog
 url: "https://hido-blog.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
-description: > Hido's 
+description: >
+	My memos and etc
 # Your information
 email: devheedoo@gmail.com
 author: Hido Kim
